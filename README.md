@@ -106,7 +106,7 @@ A comprehensive wellness application with emotional support chatbot, goal tracki
 
 ### Setup
 
-1. Open http://localhost:8000 in your browser
+1. Open the website(, we shall give the link soon) in your browser
 2. Select your current mood using emoji buttons
 3. For advanced chatbot: Enter your OpenAI API key
 
